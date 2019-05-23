@@ -1,0 +1,8 @@
+2019-05-21 05:29:05 - Setting up cpu gremlin with guid '611fa3ae-7b89-11e9-bd51-02421416608e' for 60 seconds on 1 core
+2019-05-21 05:29:05 - Setup successfully completed
+2019-05-21 05:29:06 - Running cpu gremlin with guid '611fa3ae-7b89-11e9-bd51-02421416608e' for 60 seconds on 1 core
+2019-05-21 05:29:27 - Gremlin process received signal 2 : INT (Interrupt)
+2019-05-21 05:29:27 - Rolling back 611fa3ae-7b89-11e9-bd51-02421416608e
+2019-05-21 05:29:27 - Rollback will stop the running attack and clean up its state
+2019-05-21 05:29:29 - [1;32mReverted 1 attack[0m
+2019-05-21 05:29:29 - Rollback successfully signaled (signal 2)
